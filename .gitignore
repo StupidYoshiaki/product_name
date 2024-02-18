@@ -1,0 +1,9 @@
+/tool
+/game/data
+/game/result/*/*/*/output_bert_ner
+/game/result/*/f1
+/game/result/*/processing
+/game/code/f1
+/game/code/processing_2011
+/game/code/csv_2012.py
+/game/code/crawler_jpgames.py

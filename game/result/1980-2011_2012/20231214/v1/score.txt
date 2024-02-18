@@ -1,0 +1,7 @@
+              precision    recall  f1-score   support
+
+        GAME     0.2318    0.3247    0.2705       539
+
+   micro avg     0.2318    0.3247    0.2705       539
+   macro avg     0.2318    0.3247    0.2705       539
+weighted avg     0.2318    0.3247    0.2705       539
